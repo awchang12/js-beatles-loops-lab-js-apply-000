@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   var arr = [];
   var counter = 0;
-  while(num > counter) {
+  while(num >= counter) {
     arr.push("I love the Beatles!");
     counter++;
   }
